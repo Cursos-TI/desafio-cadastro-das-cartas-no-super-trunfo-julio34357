@@ -11,13 +11,15 @@ int main() {
     char codigo A01;
     char rio branco;
     int populacao 387,352,000
-    
         float area 120,000,000
         float bip percapta 50,000,000
-        int numero de pontos turisticos 30
+         int pontos turisticos 30,7
+       
+ return 0;
+       
+}
 
-        return 0;
-}  
+
 
     
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
