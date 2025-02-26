@@ -7,13 +7,13 @@
 //Teste larissa
 
 int main() {
-    char estado A;
+    char estado acre: codigo, A;
     char codigo A01;
-    char rio branco;
-    int populacao 387,352,000
-        float area 120,000,000
-        float bip percapta 50,000,000
-         int pontos turisticos 30,7
+    char cidade: rio branco;
+    int populacao 387,352,000;
+        float area 120,000,000 km;
+        float bip percapta 50,000,000;
+         int pontos turisticos 30,7;
        
  return 0;
        
